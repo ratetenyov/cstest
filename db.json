@@ -3,49 +3,49 @@
   {
     "id": 1,
     "year": 2015,
-    "effectiveRent": 2,
-    "startingRent": 1.9
+    "effectiveRent": 20,
+    "startingRent": 15
   },
   {
     "id": 2,
     "year": 2016,
-    "effectiveRent": 2.1,
-    "startingRent": 2.2
+    "effectiveRent": 21,
+    "startingRent": 22
   },
   {
     "id": 3,
     "year": 2017,
-    "effectiveRent": 3.1,
-    "startingRent": 3.4
+    "effectiveRent": 29,
+    "startingRent": 34
   },
   {
     "id": 4,
     "year": 2018,
-    "effectiveRent": 2.6,
-    "startingRent": 2.75
+    "effectiveRent": 23,
+    "startingRent": 27
   },
   {
     "id": 5,
     "year": 2019,
-    "effectiveRent": 2.8,
-    "startingRent": 2.65
+    "effectiveRent": 28,
+    "startingRent": 25
   },
   {
     "id": 6,
     "year": 2020,
-    "effectiveRent": 3.3,
-    "startingRent": 3.0
+    "effectiveRent": 33,
+    "startingRent": 29
   },
   {
     "id": 7,
     "year": 2021,
-    "effectiveRent": 3.5,
-    "startingRent": 3.35
+    "effectiveRent": 35,
+    "startingRent": 33
   },
   {
     "id": 8,
      "year": 2022,
-    "effectiveRent": 3.8,
-    "startingRent": 3.5
+    "effectiveRent": 38,
+    "startingRent": 36
   }]
 }
