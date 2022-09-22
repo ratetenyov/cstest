@@ -1,42 +1,42 @@
 {
   "trendLine": [
   {
-    "year": 2015,
+    "id": 2015,
     "effectiveRent": 2,
     "startingRent": 1.9
   },
   {
-    "year": 2016,
+    "id": 2016,
     "effectiveRent": 2.1,
     "startingRent": 2.2
   },
   {
-    "year": 2017,
+    "id": 2017,
     "effectiveRent": 3.1,
     "startingRent": 3.4
   },
   {
-    "year": 2018,
+    "id": 2018,
     "effectiveRent": 2.6,
     "startingRent": 2.75
   },
   {
-    "year": 2019,
+    "id": 2019,
     "effectiveRent": 2.8,
     "startingRent": 2.65
   },
   {
-    "year": 2020,
+    "id": 2020,
     "effectiveRent": 3.3,
     "startingRent": 3.0
   },
   {
-    "year": 2021,
+    "id": 2021,
     "effectiveRent": 3.5,
     "startingRent": 3.35
   },
   {
-    "year": 2022,
+    "id": 2022,
     "effectiveRent": 3.8,
     "startingRent": 3.5
   }]
